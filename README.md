@@ -21,8 +21,8 @@ The Hotel Booking Website is a web application developed using HTML, CSS, JavaSc
 
 ### Installation
 1. Download the project files from the repository.
-2. Ensure you have PHP installed on your system.
-3. Run the main PHP file to start the application.
+2. Ensure you have PHP installed on your system(xampp).
+3. Start the xampp server and then open the project in the browser.
 
 ### Usage
 - **User Interface:**
